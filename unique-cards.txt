@@ -1,0 +1,820 @@
+Characters with multiple card references:
+----------------------------------------
+
+Urza (44 cards):
+  - Glasses of Urza
+  - Karn, Scion of Urza
+  - Sunglasses of Urza
+  - Urza
+  - Urza Assembles the Titans
+  - Urza's
+  - Urza's Armor
+  - Urza's Avenger
+  - Urza's Bauble
+  - Urza's Blueprints
+  - Urza's Blueprints (minigame)
+  - Urza's Cave
+  - Urza's Chalice
+  - Urza's Command
+  - Urza's Construction Drone
+  - Urza's Contact Lenses
+  - Urza's Dark Cannonball
+  - Urza's Engine
+  - Urza's Factory
+  - Urza's Filter
+  - Urza's Fun House
+  - Urza's Guilt
+  - Urza's Hot Dog Stand
+  - Urza's Hot Tub
+  - Urza's Incubator
+  - Urza's Mine
+  - Urza's Miter
+  - Urza's Power Plant
+  - Urza's Rage
+  - Urza's Rebuff
+  - Urza's Ruinous Blast
+  - Urza's Saga
+  - Urza's Science Fair Project
+  - Urza's Sylex
+  - Urza's Tome
+  - Urza's Tower
+  - Urza's Workshop
+  - Urza, Academy Headmaster
+  - Urza, Chief Artificer
+  - Urza, Lord High Artificer
+  - Urza, Lord Protector
+  - Urza, Planeswalker
+  - Urza, Powerstone Prodigy
+  - Urza, Prince of Kroog
+
+Chandra (41 cards):
+  - Chandra
+  - Chandra Ablaze
+  - Chandra Nalaar
+  - Chandra's Defeat
+  - Chandra's Embercat
+  - Chandra's Firemaw
+  - Chandra's Flame Wave
+  - Chandra's Fury
+  - Chandra's Ignition
+  - Chandra's Incinerator
+  - Chandra's Magmutt
+  - Chandra's Outburst
+  - Chandra's Outrage
+  - Chandra's Phoenix
+  - Chandra's Pyreling
+  - Chandra's Pyrohelix
+  - Chandra's Regulator
+  - Chandra's Revolution
+  - Chandra's Spitfire
+  - Chandra's Triumph
+  - Chandra, Acolyte of Flame
+  - Chandra, Awakened Inferno
+  - Chandra, Bold Pyromancer
+  - Chandra, Dressed to Kill
+  - Chandra, Fire Artisan
+  - Chandra, Fire of Kaladesh
+  - Chandra, Flame's Catalyst
+  - Chandra, Flame's Fury
+  - Chandra, Flamecaller
+  - Chandra, Flameshaper
+  - Chandra, Gremlin Wrangler
+  - Chandra, Heart of Fire
+  - Chandra, Hope's Beacon
+  - Chandra, Legacy of Fire
+  - Chandra, Novice Pyromancer
+  - Chandra, Pyrogenius
+  - Chandra, Pyromaster
+  - Chandra, Spark Hunter
+  - Chandra, Torch of Defiance
+  - Chandra, the Firebrand
+  - Oath of Chandra
+
+Liliana (33 cards):
+  - Liliana
+  - Liliana Vess
+  - Liliana of the Dark Realms
+  - Liliana of the Veil
+  - Liliana's Caress
+  - Liliana's Contract
+  - Liliana's Defeat
+  - Liliana's Devotee
+  - Liliana's Elite
+  - Liliana's Indignation
+  - Liliana's Influence
+  - Liliana's Mastery
+  - Liliana's Other Contract
+  - Liliana's Reaver
+  - Liliana's Scorn
+  - Liliana's Scrounger
+  - Liliana's Shade
+  - Liliana's Specter
+  - Liliana's Spoils
+  - Liliana's Standard Bearer
+  - Liliana's Steward
+  - Liliana's Talent
+  - Liliana's Triumph
+  - Liliana, Death Mage
+  - Liliana, Death Wielder
+  - Liliana, Death's Majesty
+  - Liliana, Dreadhorde General
+  - Liliana, Heretical Healer
+  - Liliana, Untouched by Death
+  - Liliana, Waker of the Dead
+  - Liliana, the Last Hope
+  - Liliana, the Necromancer
+  - Oath of Liliana
+
+Teferi (32 cards):
+  - Oath of Teferi
+  - Teferi
+  - Teferi's Ageless Insight
+  - Teferi's Care
+  - Teferi's Contingency
+  - Teferi's Curse
+  - Teferi's Drake
+  - Teferi's Honor Guard
+  - Teferi's Imp
+  - Teferi's Isle
+  - Teferi's Moat
+  - Teferi's Protection
+  - Teferi's Protege
+  - Teferi's Puzzle Box
+  - Teferi's Realm
+  - Teferi's Response
+  - Teferi's Sentinel
+  - Teferi's Talent
+  - Teferi's Time Twist
+  - Teferi's Tutelage
+  - Teferi's Veil
+  - Teferi's Wavecaster
+  - Teferi, Druid of Argoth
+  - Teferi, Hero of Dominaria
+  - Teferi, Mage of Zhalfir
+  - Teferi, Master of Time
+  - Teferi, Temporal Archmage
+  - Teferi, Temporal Pilgrim
+  - Teferi, Time Raveler
+  - Teferi, Timebender
+  - Teferi, Timeless Voyager
+  - Teferi, Who Slows the Sunset
+
+Ajani (27 cards):
+  - Ajani Fells the Godsire
+  - Ajani Goldmane
+  - Ajani Steadfast
+  - Ajani Unyielding
+  - Ajani Vengeant
+  - Ajani's Aid
+  - Ajani's Chosen
+  - Ajani's Comrade
+  - Ajani's Influence
+  - Ajani's Last Stand
+  - Ajani's Mantra
+  - Ajani's Presence
+  - Ajani's Pridemate
+  - Ajani's Sunstriker
+  - Ajani's Welcome
+  - Ajani, Adversary of Tyrants
+  - Ajani, Caller of the Pride
+  - Ajani, Inspiring Leader
+  - Ajani, Mentor of Heroes
+  - Ajani, Nacatl Pariah
+  - Ajani, Sleeper Agent
+  - Ajani, Strength of the Pride
+  - Ajani, Valiant Protector
+  - Ajani, Wise Counselor
+  - Ajani, the Greathearted
+  - Essence of Ajani
+  - Oath of Ajani
+
+Jace (27 cards):
+  - Jace Beleren
+  - Jace Reawakened
+  - Jace's Archivist
+  - Jace's Defeat
+  - Jace's Erasure
+  - Jace's Ingenuity
+  - Jace's Mindseeker
+  - Jace's Phantasm
+  - Jace's Projection
+  - Jace's Ruse
+  - Jace's Sanctum
+  - Jace's Scrutiny
+  - Jace's Sentinel
+  - Jace's Triumph
+  - Jace, Arcane Strategist
+  - Jace, Architect of Thought
+  - Jace, Cunning Castaway
+  - Jace, Ingenious Mind-Mage
+  - Jace, Memory Adept
+  - Jace, Mirror Mage
+  - Jace, Unraveler of Secrets
+  - Jace, Vryn's Prodigy
+  - Jace, Wielder of Mysteries
+  - Jace, the Living Guildpact
+  - Jace, the Mind Sculptor
+  - Jace, the Perfected Mind
+  - Oath of Jace
+
+Nissa (25 cards):
+  - Nissa Revane
+  - Nissa of Shadowed Boughs
+  - Nissa's Chosen
+  - Nissa's Defeat
+  - Nissa's Encouragement
+  - Nissa's Expedition
+  - Nissa's Judgment
+  - Nissa's Pilgrimage
+  - Nissa's Renewal
+  - Nissa's Revelation
+  - Nissa's Triumph
+  - Nissa's Zendikon
+  - Nissa, Ascended Animist
+  - Nissa, Genesis Mage
+  - Nissa, Nature's Artisan
+  - Nissa, Resurgent Animist
+  - Nissa, Steward of Elements
+  - Nissa, Vastwood Seer
+  - Nissa, Vital Force
+  - Nissa, Voice of Zendikar
+  - Nissa, Who Shakes the World
+  - Nissa, Worldsoul Speaker
+  - Nissa, Worldwaker
+  - Oath of Nissa
+  - The Disciple of Nissa
+
+Garruk (19 cards):
+  - Garruk
+  - Garruk Relentless
+  - Garruk Wildspeaker
+  - Garruk the Slayer
+  - Garruk's Companion
+  - Garruk's Gorehorn
+  - Garruk's Harbinger
+  - Garruk's Horde
+  - Garruk's Lost Wolf
+  - Garruk's Packleader
+  - Garruk's Uprising
+  - Garruk's Warsteed
+  - Garruk, Apex Predator
+  - Garruk, Caller of Beasts
+  - Garruk, Cursed Huntsman
+  - Garruk, Primal Hunter
+  - Garruk, Savage Herald
+  - Garruk, Unleashed
+  - Garruk, Wrath of the Wilds
+
+Gideon (19 cards):
+  - Gideon Blackblade
+  - Gideon Jura
+  - Gideon of the Trials
+  - Gideon's Avenger
+  - Gideon's Battle Cry
+  - Gideon's Company
+  - Gideon's Defeat
+  - Gideon's Intervention
+  - Gideon's Lawkeeper
+  - Gideon's Phalanx
+  - Gideon's Reproach
+  - Gideon's Resolve
+  - Gideon's Sacrifice
+  - Gideon's Triumph
+  - Gideon, Ally of Zendikar
+  - Gideon, Champion of Justice
+  - Gideon, Martial Paragon
+  - Gideon, the Oathsworn
+  - Oath of Gideon
+
+Sarkhan (16 cards):
+  - Sarkhan Unbroken
+  - Sarkhan Vol
+  - Sarkhan the Mad
+  - Sarkhan the Masterless
+  - Sarkhan's Catharsis
+  - Sarkhan's Dragonfire
+  - Sarkhan's Rage
+  - Sarkhan's Scorn
+  - Sarkhan's Triumph
+  - Sarkhan's Unsealing
+  - Sarkhan's Whelp
+  - Sarkhan, Dragonsoul
+  - Sarkhan, Fireblood
+  - Sarkhan, Soul Aflame
+  - Sarkhan, Wanderer to Shiv
+  - Sarkhan, the Dragonspeaker
+
+Tezzeret (16 cards):
+  - Tezzeret the Schemer
+  - Tezzeret the Seeker
+  - Tezzeret's Ambition
+  - Tezzeret's Betrayal
+  - Tezzeret's Gambit
+  - Tezzeret's Gatebreaker
+  - Tezzeret's Reckoning
+  - Tezzeret's Simulacrum
+  - Tezzeret's Strider
+  - Tezzeret's Touch
+  - Tezzeret, Agent of Bolas
+  - Tezzeret, Artifice Master
+  - Tezzeret, Betrayer of Flesh
+  - Tezzeret, Cruel Machinist
+  - Tezzeret, Master of Metal
+  - Tezzeret, Master of the Bridge
+
+Vraska (16 cards):
+  - Attendant of Vraska
+  - Vraska Joins Up
+  - Vraska the Unseen
+  - Vraska's Conquistador
+  - Vraska's Contempt
+  - Vraska's Fall
+  - Vraska's Finisher
+  - Vraska's Scorn
+  - Vraska's Stoneglare
+  - Vraska, Betrayal's Sting
+  - Vraska, Golgari Queen
+  - Vraska, Regal Gorgon
+  - Vraska, Relic Seeker
+  - Vraska, Scheming Gorgon
+  - Vraska, Swarm's Eminence
+  - Vraska, the Silencer
+
+Tamiyo (15 cards):
+  - Tamiyo Meets the Story Circle
+  - Tamiyo's Compleation
+  - Tamiyo's Epiphany
+  - Tamiyo's Immobilizer
+  - Tamiyo's Journal
+  - Tamiyo's Logbook
+  - Tamiyo's Notebook
+  - Tamiyo's Safekeeping
+  - Tamiyo, Collector of Tales
+  - Tamiyo, Compleated Sage
+  - Tamiyo, Field Researcher
+  - Tamiyo, Inquisitive Student
+  - Tamiyo, Seasoned Scholar
+  - Tamiyo, the Moon Sage
+  - The Tale of Tamiyo
+
+Nahiri (14 cards):
+  - Nahiri's Binding
+  - Nahiri's Lithoforming
+  - Nahiri's Machinations
+  - Nahiri's Resolve
+  - Nahiri's Sacrifice
+  - Nahiri's Stoneblades
+  - Nahiri's Warcrafting
+  - Nahiri's Wrath
+  - Nahiri, Forged in Fury
+  - Nahiri, Heir of the Ancients
+  - Nahiri, Storm of Stone
+  - Nahiri, the Harbinger
+  - Nahiri, the Lithomancer
+  - Nahiri, the Unforgiving
+
+Vivien (14 cards):
+  - Vivien Reid
+  - Vivien of the Arkbow
+  - Vivien on the Hunt
+  - Vivien's Arkbow
+  - Vivien's Crocodile
+  - Vivien's Grizzly
+  - Vivien's Invocation
+  - Vivien's Jaguar
+  - Vivien's Stampede
+  - Vivien's Talent
+  - Vivien, Arkbow Ranger
+  - Vivien, Champion of the Wilds
+  - Vivien, Monsters' Advocate
+  - Vivien, Nature's Avenger
+
+Kaya (13 cards):
+  - Kaya the Inexorable
+  - Kaya's Ghostform
+  - Kaya's Guile
+  - Kaya's Onslaught
+  - Kaya's Wrath
+  - Kaya, Bane of the Dead
+  - Kaya, Geist Hunter
+  - Kaya, Ghost Assassin
+  - Kaya, Ghost Haunter
+  - Kaya, Intangible Slayer
+  - Kaya, Orzhov Usurper
+  - Kaya, Spirits' Justice
+  - Oath of Kaya
+
+Elspeth (12 cards):
+  - Archangel Elspeth
+  - Elspeth Conquers Death
+  - Elspeth Resplendent
+  - Elspeth Tirel
+  - Elspeth's Devotee
+  - Elspeth's Nightmare
+  - Elspeth's Smite
+  - Elspeth's Talent
+  - Elspeth, Knight-Errant
+  - Elspeth, Sun's Champion
+  - Elspeth, Sun's Nemesis
+  - Elspeth, Undaunted Hero
+
+Karn (12 cards):
+  - Karn
+  - Karn Liberated
+  - Karn's Bastion
+  - Karn's Sylex
+  - Karn's Temporal Sundering
+  - Karn's Touch
+  - Karn, Legacy Reforged
+  - Karn, Living Legacy
+  - Karn, Scion of Urza
+  - Karn, Silver Golem
+  - Karn, the Great Creator
+  - Sisterhood of Karn
+
+Ral (12 cards):
+  - Ral Zarek
+  - Ral and the Implicit Maze
+  - Ral's Dispersal
+  - Ral's Outburst
+  - Ral's Reinforcements
+  - Ral's Staticaster
+  - Ral's Vanguard
+  - Ral, Caller of Storms
+  - Ral, Crackling Wit
+  - Ral, Izzet Viceroy
+  - Ral, Monsoon Mage
+  - Ral, Storm Conduit
+
+Sorin (12 cards):
+  - Sorin Markov
+  - Sorin of House Markov
+  - Sorin the Mirthless
+  - Sorin's Guide
+  - Sorin's Thirst
+  - Sorin's Vengeance
+  - Sorin, Grim Nemesis
+  - Sorin, Imperious Bloodlord
+  - Sorin, Lord of Innistrad
+  - Sorin, Solemn Visitor
+  - Sorin, Vampire Lord
+  - Sorin, Vengeful Bloodlord
+
+Ugin (12 cards):
+  - Eye of Ugin
+  - Sanctum of Ugin
+  - Scion of Ugin
+  - Ugin's Binding
+  - Ugin's Conjurant
+  - Ugin's Construct
+  - Ugin's Insight
+  - Ugin's Labyrinth
+  - Ugin's Mastery
+  - Ugin's Nexus
+  - Ugin, the Ineffable
+  - Ugin, the Spirit Dragon
+
+Ashiok (10 cards):
+  - Ashiok's Adept
+  - Ashiok's Erasure
+  - Ashiok's Forerunner
+  - Ashiok's Reaper
+  - Ashiok's Skulker
+  - Ashiok, Dream Render
+  - Ashiok, Nightmare Muse
+  - Ashiok, Nightmare Weaver
+  - Ashiok, Sculptor of Fears
+  - Ashiok, Wicked Manipulator
+
+Kiora (10 cards):
+  - Kiora Bests the Sea God
+  - Kiora's Dambreaker
+  - Kiora's Dismissal
+  - Kiora's Follower
+  - Kiora, Behemoth Beckoner
+  - Kiora, Master of the Depths
+  - Kiora, Sovereign of the Deep
+  - Kiora, the Crashing Wave
+  - Kiora, the Rising Tide
+  - Kiora, the Tide's Fury
+
+Rowan (10 cards):
+  - Force of Rowan
+  - Rowan Kenrith
+  - Rowan Treefolk
+  - Rowan's Battleguard
+  - Rowan's Grim Search
+  - Rowan's Stalwarts
+  - Rowan's Talent
+  - Rowan, Fearless Sparkmage
+  - Rowan, Scholar of Sparks
+  - Rowan, Scion of War
+
+Saheeli (10 cards):
+  - Saheeli Rai
+  - Saheeli's Artistry
+  - Saheeli's Directive
+  - Saheeli's Lattice
+  - Saheeli's Silverwing
+  - Saheeli, Filigree Master
+  - Saheeli, Radiant Creator
+  - Saheeli, Sublime Artificer
+  - Saheeli, the Gifted
+  - Saheeli, the Sun's Brilliance
+
+Huatli (9 cards):
+  - Huatli's Final Strike
+  - Huatli's Raptor
+  - Huatli's Snubhorn
+  - Huatli's Spurring
+  - Huatli, Dinosaur Knight
+  - Huatli, Poet of Unity
+  - Huatli, Radiant Champion
+  - Huatli, Warrior Poet
+  - Huatli, the Sun's Heart
+
+Jaya (9 cards):
+  - Jaya Ballard
+  - Jaya Ballard Avatar
+  - Jaya Ballard, Task Mage
+  - Jaya's Firenado
+  - Jaya's Greeting
+  - Jaya's Immolating Inferno
+  - Jaya's Phoenix
+  - Jaya, Fiery Negotiator
+  - Jaya, Venerated Firemage
+
+Basri (8 cards):
+  - Basri
+  - Basri Ket
+  - Basri's Acolyte
+  - Basri's Aegis
+  - Basri's Lieutenant
+  - Basri's Solidarity
+  - Basri, Devoted Paladin
+  - Basri, Tomorrow's Champion
+
+Dovin (8 cards):
+  - Dovin Baan
+  - Dovin's Acuity
+  - Dovin's Automaton
+  - Dovin's Dismissal
+  - Dovin's Veto
+  - Dovin, Architect of Law
+  - Dovin, Grand Arbiter
+  - Dovin, Hand of Control
+
+Freyalise (8 cards):
+  - Disciple of Freyalise
+  - Freyalise Supplicant
+  - Freyalise's Charm
+  - Freyalise's Radiance
+  - Freyalise's Winds
+  - Freyalise, Llanowar's Fury
+  - Freyalise, Skyshroud Partisan
+  - Song of Freyalise
+
+Ob Nixilis (8 cards):
+  - Ob Nixilis Reignited
+  - Ob Nixilis of the Black Oath
+  - Ob Nixilis's Cruelty
+  - Ob Nixilis, Captive Kingpin
+  - Ob Nixilis, Unshackled
+  - Ob Nixilis, the Adversary
+  - Ob Nixilis, the Fallen
+  - Ob Nixilis, the Hate-Twisted
+
+Angrath (7 cards):
+  - Angrath's Ambusher
+  - Angrath's Fury
+  - Angrath's Marauders
+  - Angrath's Rampage
+  - Angrath, Captain of Chaos
+  - Angrath, Minotaur Pirate
+  - Angrath, the Flame-Chained
+
+Narset (7 cards):
+  - Narset Transcendent
+  - Narset of the Ancient Way
+  - Narset's Reversal
+  - Narset, Enlightened Exile
+  - Narset, Enlightened Master
+  - Narset, Parter of Veils
+  - Taught by Narset
+
+Tibalt (7 cards):
+  - Tibalt the Chaotic
+  - Tibalt's Rager
+  - Tibalt's Trickery
+  - Tibalt, Cosmic Impostor
+  - Tibalt, Rakish Instigator
+  - Tibalt, Wicked Tormentor
+  - Tibalt, the Fiend-Blooded
+
+Arlinn (6 cards):
+  - Arlinn Kord
+  - Arlinn's Wolf
+  - Arlinn, Embraced by the Moon
+  - Arlinn, Voice of the Pack
+  - Arlinn, the Moon's Fury
+  - Arlinn, the Pack's Hope
+
+Domri (6 cards):
+  - Domri Rade
+  - Domri's Ambush
+  - Domri's Nodorog
+  - Domri, Anarch of Bolas
+  - Domri, Chaos Bringer
+  - Domri, City Smasher
+
+Nicol Bolas (6 cards):
+  - Nicol Bolas
+  - Nicol Bolas, Dragon-God
+  - Nicol Bolas, God-Pharaoh
+  - Nicol Bolas, Planeswalker
+  - Nicol Bolas, the Deceiver
+  - Nicol Bolas, the Ravager
+
+Oko (6 cards):
+  - Oko's Accomplices
+  - Oko's Hospitality
+  - Oko, Thief of Crowns
+  - Oko, the Ringleader
+  - Oko, the Trickster
+  - Wrath of Oko
+
+Samut (6 cards):
+  - Samut's Sprint
+  - Samut, Tyrant Smasher
+  - Samut, Vizier of Naktamun
+  - Samut, Voice of Dissent
+  - Samut, the Driving Force
+  - Samut, the Tested
+
+Venser (6 cards):
+  - Venser's Diffusion
+  - Venser's Journal
+  - Venser's Sliver
+  - Venser, Corpse Puppet
+  - Venser, Shaper Savant
+  - Venser, the Sojourner
+
+Xenagos (6 cards):
+  - Fanatic of Xenagos
+  - Xenagos Ascended
+  - Xenagos's Scorn
+  - Xenagos's Strike
+  - Xenagos, God of Revels
+  - Xenagos, the Reveler
+
+Kaito (5 cards):
+  - Kaito Shizuki
+  - Kaito's Pursuit
+  - Kaito, Bane of Nightmares
+  - Kaito, Cunning Infiltrator
+  - Kaito, Dancing Shadow
+
+Tyvar (5 cards):
+  - Tyvar Kell
+  - Tyvar the Bellicose
+  - Tyvar's Stand
+  - Tyvar, Jubilant Brawler
+  - Tyvar, the Pummeler
+
+Wrenn (5 cards):
+  - Wrenn and One
+  - Wrenn and Realmbreaker
+  - Wrenn and Seven
+  - Wrenn and Six
+  - Wrenn's Resolve
+
+Davriel (4 cards):
+  - Davriel's Shadowfugue
+  - Davriel's Withering
+  - Davriel, Rogue Shadowmage
+  - Davriel, Soul Broker
+
+Jeska (4 cards):
+  - Jeska and Kamahl
+  - Jeska's Will
+  - Jeska, Thrice Reborn
+  - Jeska, Warrior Adept
+
+Mu Yanling (4 cards):
+  - Mu Yanling
+  - Mu Yanling, Celestial Wind
+  - Mu Yanling, Sky Dancer
+  - Mu Yanling, Wind Rider
+
+Teyo (4 cards):
+  - Teyo's Lightshield
+  - Teyo, Aegis Adept
+  - Teyo, Geometric Tactician
+  - Teyo, the Shieldmage
+
+Aminatou (3 cards):
+  - Aminatou's Augury
+  - Aminatou, Veil Piercer
+  - Aminatou, the Fateshifter
+
+Dakkon (3 cards):
+  - Dakkon Blackblade
+  - Dakkon Blackblade Avatar
+  - Dakkon, Shadow Slayer
+
+Daretti (3 cards):
+  - Daretti, Ingenious Iconoclast
+  - Daretti, Rocketeer Engineer
+  - Daretti, Scrap Savant
+
+Dihada (3 cards):
+  - Dihada's Ploy
+  - Dihada, Binder of Wills
+  - Geyadrone Dihada
+
+Grist (3 cards):
+  - Grist, Voracious Larva
+  - Grist, the Hunger Tide
+  - Grist, the Plague Swarm
+
+Jaya Ballard (3 cards):
+  - Jaya Ballard
+  - Jaya Ballard Avatar
+  - Jaya Ballard, Task Mage
+
+Kasmina (3 cards):
+  - Kasmina's Transmutation
+  - Kasmina, Enigma Sage
+  - Kasmina, Enigmatic Mentor
+
+Koth (3 cards):
+  - Koth of the Hammer
+  - Koth's Courier
+  - Koth, Fire of Resistance
+
+Kytheon (3 cards):
+  - Kytheon's Irregulars
+  - Kytheon's Tactics
+  - Kytheon, Hero of Akros
+
+Tasha (3 cards):
+  - Tasha's Hideous Laughter
+  - Tasha, Unholy Archmage
+  - Tasha, the Witch Queen
+
+Tevesh Szat (3 cards):
+  - Disciple of Tevesh Szat
+  - Minion of Tevesh Szat
+  - Tevesh Szat, Doom of Fools
+
+Calix (2 cards):
+  - Calix, Destiny's Hand
+  - Calix, Guided by Fate
+
+Comet (2 cards):
+  - Comet Storm
+  - Comet, Stellar Pup
+
+Ellywick Tumblestrum (2 cards):
+  - A-Ellywick Tumblestrum
+  - Ellywick Tumblestrum
+
+Elminster (2 cards):
+  - Elminster
+  - Elminster's Simulacrum
+
+Estrid (2 cards):
+  - Estrid's Invocation
+  - Estrid, the Masked
+
+Grand Master (2 cards):
+  - Grand Master of Flowers
+  - Soulfire Grand Master
+
+Jared Carthalion (2 cards):
+  - Jared Carthalion
+  - Jared Carthalion, True Heir
+
+Jiang Yanggu (2 cards):
+  - Jiang Yanggu
+  - Jiang Yanggu, Wildcrafter
+
+Liliana of (2 cards):
+  - Liliana of the Dark Realms
+  - Liliana of the Veil
+
+Lukka (2 cards):
+  - Lukka, Bound to Ruin
+  - Lukka, Coppercoat Outcast
+
+Mordenkainen (2 cards):
+  - Mordenkainen
+  - Mordenkainen's Polymorph
+
+Sivitri (2 cards):
+  - Sivitri Scarzam
+  - Sivitri, Dragon Master
+
+Tyvar Kell (2 cards):
+  - A-Tyvar Kell
+  - Tyvar Kell

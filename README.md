@@ -3,7 +3,7 @@
 A Python script for finding Magic: The Gathering characters and their card references via the Scryfall API.
 
 # Basic usage
-python main.py > output.txt
+`python main.py > output.txt`
 
 ## How it works
 1. Get Planeswalker/Legendary Names:
